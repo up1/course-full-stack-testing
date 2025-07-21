@@ -11,3 +11,6 @@
   * Design test cases
   * API testing
   * UI testing
+  * Contract testing
+    * Sync communication
+    * Async communication
