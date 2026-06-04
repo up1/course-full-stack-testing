@@ -1,5 +1,5 @@
 # Course :: Full Stack Testing
-* Manual to Automated testing
+* Manual to Automated testing in Software Development Life Cycle
 * Testing strategies
   * End-to-end test
   * Integration test
@@ -7,6 +7,7 @@
   * Contract test
   * Unit test
 * Testing tools and techniques
+* AI with Testing process
 * Workshop
   * Design test cases
   * API testing
