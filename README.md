@@ -8,6 +8,9 @@
   * Unit test
 * Testing tools and techniques
 * AI with Testing process
+  * AI Agent
+  * Design test case
+  * Write test script 
 * Workshop
   * Design test cases
   * API testing
@@ -15,3 +18,4 @@
   * Contract testing
     * Sync communication
     * Async communication
+    * 
