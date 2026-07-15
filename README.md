@@ -18,4 +18,3 @@
   * Contract testing
     * Sync communication
     * Async communication
-    * 
